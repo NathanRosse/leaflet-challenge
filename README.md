@@ -2,7 +2,7 @@
 
 Beginning the challenge and trying to get the first step down at the very least. I will have a good amount to do Monday to Thursday to get this done. Made a good step forward and just got to be diligent in work and spend my free time typing away at this block by block.
 
-
+Its been about 3-4 hours of hard coding. We have just about everything done now thanks to a variety of outside help such as getting good advice from classmates and seeing similar iterations of earthquake api pulls on stackOverflow. Much thanks to chatGPT for helping restructure my code cause lord knows its horrible to see the live webpage go blank after making a single edit to the legend. The bar isn't showing up next to the depth numbers and I am not sure what the error is. Will keep trying to solve that error but otherwise we have completed part 1 about 95% of the way.
 
 
 Background
