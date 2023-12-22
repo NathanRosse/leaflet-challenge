@@ -4,6 +4,7 @@ Beginning the challenge and trying to get the first step down at the very least.
 
 Its been about 3-4 hours of hard coding. We have just about everything done now thanks to a variety of outside help such as getting good advice from classmates and seeing similar iterations of earthquake api pulls on stackOverflow. Much thanks to chatGPT for helping restructure my code cause lord knows its horrible to see the live webpage go blank after making a single edit to the legend. The bar isn't showing up next to the depth numbers and I am not sure what the error is. Will keep trying to solve that error but otherwise we have completed part 1 about 95% of the way.
 
+Thank you so much Alex the TA, he was up to help me at 11PM. I am exhausted and still need to grind very hard on my project but at least we are one more step closer to finishing.
 
 Background
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.

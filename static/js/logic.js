@@ -62,10 +62,10 @@ d3.json(queryUrl).then(function (earthquakeData) {
     legend.onAdd = function () {
         const div = L.DomUtil.create('div', 'info legend');
         const grades = [-10, 10, 30, 60, 90];
-
+        var colors = ['#1a9850','#91cf60', '#d9ef8b','#fee08b','#fc8d59','#d73027' ]
         for (let i = 0; i < grades.length; i++) {
             div.innerHTML +=
-                '<i style="background:' + markerColor(grades[i] + 1) + '"></i> ' +
+                '<i style="background:' + colors[i] + '"></i> ' +
                 grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
         }
 
